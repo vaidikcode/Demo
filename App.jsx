@@ -9,7 +9,7 @@ function App() {
   const [count, setCount] = useState(0)
   let username= {
     name : 'Puma Shoes',
-    price : '$99'
+    price : '$98'
   }
   let newArr= [1,2,3,4,5]
 
